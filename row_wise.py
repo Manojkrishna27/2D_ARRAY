@@ -7,7 +7,7 @@ rows = len(matrix)
 print(rows) # rows
 
 cols = len(matrix[0])
-print(cols) # columns
+print(cols) # column
 
 for i in range(rows):
     for j in range(cols):
